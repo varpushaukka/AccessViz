@@ -1,4 +1,4 @@
-# Final Assignment, Henna Kalliokoski
+# Accessibility visualizing tool
 
 instructions [here](https://automating-gis-processes.github.io/2017/lessons/FA/final-assignment.html).
 
